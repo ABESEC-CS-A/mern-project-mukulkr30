@@ -4,7 +4,7 @@ import Sidebar from "./sidebar";
 export default function Mainbody(){
     return(
         <div className="container-fluid" >
-            <div className="row" style={{}}>
+            <div className="row">
                 <Sidebar />
                 <Component/>
             </div>

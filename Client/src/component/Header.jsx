@@ -1,4 +1,4 @@
-import logo from "../assets/m.png";
+import logo from "../assets/TFlogO.png";
 import './Header.css'
 export default function Header(){
     
@@ -7,7 +7,7 @@ export default function Header(){
         <nav className="navbar navbar-dark bg-dark">
             <div className="container">
                 <a className="navbar-brand" href="#">
-                <img src={logo} alt="" width="40" height="40"/>
+                <img src={logo} alt="" width="60" height="60"/>
                 </a>
            
             <form  className="d-flex">
